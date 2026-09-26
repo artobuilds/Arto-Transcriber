@@ -61,6 +61,6 @@ This repository is a product showcase, not the application's source repository. 
 
 Questions and general feedback are welcome in [Issues](https://github.com/Noldor11/Arto-Transcriber/issues). Include the platform and a short description of the scenario. **Do not post API keys, private recordings, personal transcripts, or sensitive screenshots.**
 
-Built by **Artur Gurunyan · ArtoBuilds**.
+Built by **ArtoBuilds**.
 
 Arto Transcriber is an independent project and is not an official ElevenLabs, Microsoft, or Google product.
